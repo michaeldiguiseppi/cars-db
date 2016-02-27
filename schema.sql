@@ -23,4 +23,5 @@ CREATE TABLE models (
 );
 
 
+
 ALTER TABLE models ADD FOREIGN KEY (make_id) REFERENCES makes(id);
