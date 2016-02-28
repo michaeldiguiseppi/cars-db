@@ -11,4 +11,4 @@ INSERT INTO models (name, year_firstMade, year_lastMade, stock_photo_url, make_i
 
 
 
-COPY vehicles FROM 'vehicles.csv' DELIMITER ',' CSV;
+COPY vehicles FROM './vehicles.csv' DELIMITER ',' CSV;

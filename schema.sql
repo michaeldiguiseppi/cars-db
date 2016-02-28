@@ -103,6 +103,6 @@ startStop REAL,
 phevCity REAL,
 phevHwy REAL,
 phevComb REAL
-)
+);
 
 ALTER TABLE models ADD FOREIGN KEY (make_id) REFERENCES makes(id);
