@@ -12,4 +12,7 @@ Basic Data Services
 
 
 
-<!-- These routes can be hit to snag vehicle information from the EPA's api -->
+<!-- These routes can be hit to snag vehicle information from the EPA's api.
+    Going to build a front end app that hits these endpoints to get information about vehicles.
+    There are also routes from the EPA that allow you to build out vehicle selection dropdowns.
+-->
